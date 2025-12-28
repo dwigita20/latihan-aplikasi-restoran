@@ -1,0 +1,7 @@
+FOOD|mie goreng|15000.0|makanan|snack
+DRINK|es teh|10000.0|minuman|es
+DISC|diskon 10%|0.0|diskon|10.0
+FOOD|mie rebus|15000.0|makanan|snack
+FOOD|mie ayam|20000.0|makanan|snack
+DRINK|es buah|15000.0|minuman|es
+DRINK|es teler|20000.0|minuman|es

@@ -1,0 +1,5 @@
+=== STRUK PEMBELIAN ===
+mie ayam - Rp15000.0
+es teh - Rp5000.0
+Diskon: 0.0%
+Total: Rp20000.0

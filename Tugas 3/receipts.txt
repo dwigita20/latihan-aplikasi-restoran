@@ -1,0 +1,19 @@
+==== STRUK PESANAN - 2025-11-20 12:51:43 ====
+mie goreng - 15000.0
+mie goreng - 15000.0
+es teler - 20000.0
+es teler - 20000.0
+es teler - 20000.0
+Subtotal: 90000.0
+Total: 90000.0
+
+==== STRUK PESANAN - 2025-11-20 12:52:19 ====
+mie goreng - 15000.0
+mie goreng - 15000.0
+es teler - 20000.0
+es teler - 20000.0
+es teler - 20000.0
+Diskon: diskon 10% -> 10.0%
+Subtotal: 90000.0
+Total: 81000.0
+

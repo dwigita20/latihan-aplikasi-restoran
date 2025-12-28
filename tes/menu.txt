@@ -1,0 +1,5 @@
+FOOD|mie ayam|15000.0|makanan|makanan
+FOOD|ayam geprek|15000.0|makanan|lauk
+DRINK|es teh|7000.0|minuman|es
+DRINK|es jeruk|10000.0|minuman|es
+DISC|beli satu gratis 1|50000.0|makanan|10.0
